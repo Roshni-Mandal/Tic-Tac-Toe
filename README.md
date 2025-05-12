@@ -12,11 +12,6 @@ A simple and interactive Tic Tac Toe game built using **React.js** and **Vite**.
 - ✅ Clean and responsive UI
 - ✅ Built with modern tooling (Vite + React)
 
----
-
-## 🖥️ Demo
-
-[Live Demo](#) — *(Add your deployed link here)*
 
 ---
 
